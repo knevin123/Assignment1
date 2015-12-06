@@ -1,0 +1,23 @@
+2014/2015,Kun Agüero,26,1222
+2013/2014,Luis Suárez,31,1195
+2012/2013,Robin van Persie,26,1195
+2011/2012,Robin van Persie,30,988
+2010/2011,Dimitar Berbatov,21,970
+2009/2010,Didier Drogba,29,1019
+2008/2009,Nicolas Anelka,19,959
+2007/2008,Cristiano Ronaldo,31,1060
+2006/2007,Didier Drogba,20,992
+2005/2006,Thierry Henry,27,1001
+2004/2005,Thierry Henry,25,1000
+2003/2004,Thierry Henry,30,1012
+2002/2003,Ruud van Nistelrooy,25,974
+2001/2002,Thierry Henry	,24,944
+2000/2001,Jimmy Floyd Hasselbaink,23,931
+1999/2000,Kevin Phillips,30,1002
+1998/1999,Dwight Yorke,18,942
+1997/1998,Michael Owen,18,1053
+1996/1997,Alan Shearer,25,1063
+1995/1996,Alan Shearer,31,1066
+1994/1995,Alan Shearer,34,1063
+1993/1994,Andy Cole,34,1052
+1992/1993,Teddy Sheringham,22,975
