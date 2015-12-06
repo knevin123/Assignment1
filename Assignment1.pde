@@ -106,7 +106,8 @@ void loadData()
 }
 
 
-
+//function to calculate the max and min for 
+//top goalscorers and total goals
 void calcMinMax()
 {
   min = max = data.get(0).goals; 
@@ -220,7 +221,7 @@ void drawBarChart()
     //solving bar height
     barheight=-(((data.get(i).goals))) * ((height)/(max+20));
     stroke(255);
-    fill(0,0,255);      
+    fill(34,129,161);      
     rect(x,height-border,barwidth,barheight);
     x+=barwidth;
   }
